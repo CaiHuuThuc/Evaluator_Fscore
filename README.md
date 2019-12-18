@@ -12,7 +12,7 @@ Yêu cầu:
   
   - File gold và guess tách biệt nhau
   
-  - Định dạng file theo format: mỗi dòng là 1 token từ câu, dạng word<tab>label, mỗi câu cách nhau bằng dòng trắng.
+  - Định dạng file theo format: mỗi dòng là 1 token từ câu, dạng `word<tab>label`, mỗi câu cách nhau bằng dòng trắng.
   
 usage: 
 ``` bash
